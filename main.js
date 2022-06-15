@@ -4,6 +4,9 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
+const hearts = document.querySelectorAll(".like")
+//hearts.addEventListener("click", mimicServerCall())
+console.log(hearts)
 
 
 
